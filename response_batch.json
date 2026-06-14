@@ -1,0 +1,22 @@
+{
+  "predictions": [
+    {
+      "predicted_class": "setosa",
+      "predicted_class_index": 0,
+      "probabilities": {
+        "setosa": 1.0,
+        "versicolor": 0.0,
+        "virginica": 0.0
+      }
+    },
+    {
+      "predicted_class": "virginica",
+      "predicted_class_index": 2,
+      "probabilities": {
+        "setosa": 0.0,
+        "versicolor": 0.04,
+        "virginica": 0.96
+      }
+    }
+  ]
+}
